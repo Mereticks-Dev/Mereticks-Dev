@@ -14,7 +14,7 @@ My name is Gabriel I'm 17 years old and I'm looking for my developer career whil
 
 ----
 
-[![Mereticks GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMKiller&show_icons=true&bg_color=00000000)](https://github.com/GabrielMKiller/github-readme-stats#gh-dark-mode-only)
+[![Mereticks GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMKiller&show_icons=true&bg_color=00000000)](https://github.com/GabrielMKiller/GabrielMKiller)
 
 
 ### 🔧 My Skills
