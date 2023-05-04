@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Hello!
 
-<!--
-**GabrielMKiller/GabrielMKiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+My name is Gabriel I'm 17 years old and I'm looking for my developer career while studying in Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Website
+
+----
+
+[![Blog](https://img.shields.io/website?label=codestore.squareweb.app&style=for-the-badge&url=https://codestore.squareweb.app/)](https://codestore.squareweb.app)
+
+### 💻 Stats
+
+----
+
+[![Mereticks GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMKiller&show_icons=true&bg_color=00000000)](https://github.com/GabrielMKiller/github-readme-stats#gh-dark-mode-only)
+
+
+### 🔧 My Skills
+
+----
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,discord,bots,figma,git,github,mysql,ps,ae,vscode)](https://skillicons.dev)
+
+I am passionate about technology and have experience in the technologies mentioned above. I'm always looking for new challenges to improve my skills and contribute to relevant projects.
