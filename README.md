@@ -16,8 +16,8 @@ My name is Gabriel I'm 17 years old and I'm looking for my developer career whil
 
 [![Mereticks GitHub stats](https://github-readme-stats.vercel.app/api?username=Mereticks-Dev&show_icons=true&bg_color=00000000)](https://github.com/Mereticks-Dev/Mereticks-Dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mereticks-Dev&size_weight=0.5&count_weight=0.5)
 
+[![Mereticks GitHub progress](<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mereticks-Dev&layout=compact&theme=tokyonight&locale=pt-br&count_private=true" />)
 
 ### 🔧 My Skills
 
