@@ -8,7 +8,7 @@ My name is Gabriel I'm 17 years old and I'm looking for my developer career whil
 
 ----
 
-[![Blog](https://img.shields.io/website?label=codestore.squareweb.app&style=for-the-badge&url=https://codestore.squareweb.app/)](https://codestore.squareweb.app)
+[![Blog](https://img.shields.io/website?label=codestore.squareweb.app&style=for-the-badge&url=http://code-store.site//)](http://code-store.site/)
 
 ### 💻 Stats
 
