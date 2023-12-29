@@ -3,11 +3,6 @@
 ----
 
 My name is Gabriel I'm 17 years old and I'm looking for my developer career while studying in Brazil
-
-   <p align="center">
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-   </p>
    
 ### 💻 Website
 
