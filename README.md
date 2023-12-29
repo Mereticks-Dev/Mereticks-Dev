@@ -17,8 +17,8 @@ My name is Gabriel I'm 17 years old and I'm looking for my developer career whil
       <img alt="Releases" src="https://img.shields.io/github/release/Mereticks-Dev/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/Mereticks-Dev/github-profile-summary-cards/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/Mereticks-Dev/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+      <a href="https://github.com/Mereticks-Dev">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/Mereticks-Dev"></a>
    </p>
 
 ### 💻 Stats
