@@ -51,7 +51,7 @@ Sou um desenvolvedor de **20 anos**  focado em criar sistemas que unem estética
 ---
 
 ## ♟️ Off-Duty Interests
-Acredito que a lógica do **Xadrez** e a estratégia de jogos como **Batman: Arkham City** moldam a forma como encaro o desenvolvimento de sistemas. Também sou fã da estética e cultura **K-pop (Stray Kids)**, que inspira meu olhar para design e performance.
+Acredito que a lógica do **Xadrez** e a estratégia de jogos como **Batman: Arkham City** moldam a forma como encaro o desenvolvimento de sistemas.
 
 ---
 
