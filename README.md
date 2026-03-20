@@ -10,9 +10,9 @@
 
 ### 👤 Sobre Mim
 
-[cite_start]Sou um entusiasta de tecnologia e desenvolvedor em ascensão, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul[cite: 6]. Com foco em criar soluções que unem design sofisticado e funcionalidade robusta, busco constantemente o equilíbrio entre a estética e a performance.
+Sou um entusiasta de tecnologia e desenvolvedor em ascensão, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul. Com foco em criar soluções que unem design sofisticado e funcionalidade robusta, busco constantemente o equilíbrio entre a estética e a performance.
 
-- [cite_start]🎓 **Educação:** Graduando em ADS (Previsão 12/2026)[cite: 6].
+- 🎓 **Educação:** Graduando em ADS (Previsão 12/2026).
 - ☕ **Atualmente:** Barista e Suporte à Gestão na Go Coffee.
 - 🛠️ **Foco Atual:** Especialização em Next.js, Integrações de Pagamento (Stripe) e Automação de Bots.
 - ♟️ **Hobbies:** Entusiasta de Xadrez e fã da franquia Batman: Arkham.
