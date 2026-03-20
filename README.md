@@ -1,76 +1,67 @@
-# <p align="center">✨ GABRIEL MERETIKA | SOFTWARE DEVELOPER ✨</p>
+# <p align="center">🔮 GABRIEL MERETIKA | FULLSTACK & AUTOMATION 🔮</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Creative%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Building%20the%20Digital%20Future&fontSize=45&animation=twinkling&fontAlignY=35" />
 </p>
 
-## 🚀 Sobre Mim
-Olá! Sou o **Gabriel**, um desenvolvedor de 20 anos residente em **Guaratuba, PR**. Atualmente, curso o 2º ano de **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul e atuo na interface entre tecnologia e gestão na **Go Coffee**. Sou apaixonado por resolver problemas complexos através de código limpo e design intuitivo.
+## 🌌 Overview
+Sou um desenvolvedor de **20 anos**  focado em criar sistemas que unem estética e funcionalidade. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul  e aplico meu pensamento analítico como **Barista e Suporte à Gestão na Go Coffee**. Minha trajetória inclui liderança de equipes na **JET Brasil**  e atuação no setor público.
 
-- 🎓 **Educação:** ADS @ Cruzeiro do Sul (2025 - 2026).
-- 💼 **Atualidade:** Barista e Suporte à Gestão na Go Coffee.
-- 💡 **Interesses:** Automação com IA, Bots de Alta Performance e Web Design Minimalista.
+- 🎓 **Educação:** ADS @ Cruzeiro do Sul / Polo Positivo.
+- 💻 **Main Projects:** Code Store (E-commerce) e Arquitetura de Bots para Discord.
+- 📍 **Local:** Guaratuba - PR.
+- 🎯 **Mindset:** "O código é a ferramenta, a estratégia é o diferencial."
 
 ---
 
-## 🛠️ Minha Stack Tecnológica
+## ⚡ Tech Stack & Skills
 
-### 🌐 Frontend & Design
+### 💜 Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### ⚙️ Backend & Database
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Ferramentas & Ecossistema
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### 🔮 Design & Gestão
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
-## 📊 Estatísticas & Atividade
+## 📊 Digital Footprint & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mereticks-Dev&show_icons=true&theme=transparent&title_color=fff&text_color=ccc&icon_color=5865F2&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mereticks-Dev&layout=compact&theme=transparent&title_color=fff&text_color=ccc&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Mereticks-Dev&show_icons=true&theme=tokyonight&title_color=BF00FF&text_color=ffffff&icon_color=8A2BE2&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mereticks-Dev&layout=compact&theme=tokyonight&title_color=BF00FF&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mereticks-Dev&theme=transparent&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mereticks-Dev&theme=tokyonight&hide_border=true&stroke=BF00FF&ring=8A2BE2&fire=BF00FF&currStreakLabel=ffffff" />
 </p>
 
 ---
 
-## 🏗️ Projetos em Foco
-- **Code Store:** Engine de e-commerce digital com foco em performance ([visitar site](http://code-store.site/)).
-- **Discord Bot Architecture:** Sistemas de automação escaláveis utilizando Node.js.
-- **AI Agents:** Pesquisa e desenvolvimento de agentes inteligentes para automação de processos.
+## 🏗️ Projetos em Destaque
+- **Code Store:** Plataforma de vendas digitais com Next.js e integração via Stripe API.
+- **Discord Bot Architecture:** Desenvolvimento de bots de gestão escaláveis em Node.js.
+- **AI Integration:** Criação de agentes inteligentes para automação de processos.
 
 ---
 
-## ♟️ Além do Código
-Quando não estou codando, você provavelmente me encontrará:
-- Planejando a próxima jogada em uma partida de **Xadrez**.
-- Explorando as ruas de Gotham em **Batman: Arkham**.
-- Estudando novas formas de integrar **IA** no cotidiano.
+## ♟️ Off-Duty Interests
+Acredito que a lógica do **Xadrez** e a estratégia de jogos como **Batman: Arkham City** moldam a forma como encaro o desenvolvimento de sistemas. Também sou fã da estética e cultura **K-pop (Stray Kids)**, que inspira meu olhar para design e performance.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-meretika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielmmarangoni1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-meretika/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabrielmmarangoni1@gmail.com"><img src="https://img.shields.io/badge/Gmail-BF00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://code-store.site/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1111&height=20&section=footer" />
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=footer" />
 </p>
